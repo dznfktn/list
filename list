@@ -1,0 +1,508 @@
+{
+    "cat1": {
+        "name": "KIRMIZI LISTE",
+        "users": [
+            {
+                "userName": "furkancerkes",
+                "userId": "2732817801"
+            },
+            {
+                "userName": "Drr_Nilay",
+                "userId": "1520001339056701440"
+            },
+            {
+                "userName": "Devlet_024",
+                "userId": "322587111"
+            },
+            {
+                "userName": "ozlemdogan_",
+                "userId": "1484219388"
+            },
+            {
+                "userName": "ruyaatlasi",
+                "userId": "108142332"
+            },
+            {
+                "userName": "06melihgokcek",
+                "userId": "236131165"
+            },
+            {
+                "userName": "RemziGrz",
+                "userId": "1540789153"
+            },
+            {
+                "userName": "hikmetgenc",
+                "userId": "105308593"
+            },
+            {
+                "userName": "fatihtezcan",
+                "userId": "81683900"
+            },
+            {
+                "userName": "SavciSayan",
+                "userId": "837827198"
+            },
+            {
+                "userName": "mustafarmagan",
+                "userId": "62258636"
+            },
+            {
+                "userName": "elonue",
+                "userId": "264756759"
+            },
+            {
+                "userName": "zekibahce",
+                "userId": "70491947"
+            },
+            {
+                "userName": "Burakorhan0",
+                "userId": "1170376071524601856"
+            },
+            {
+                "userName": "35Brahitma",
+                "userId": "1551168867728343040"
+            },
+            {
+                "userName": "RasimOzan_K",
+                "userId": "1071559698"
+            },
+            {
+                "userName": "dijital_baba",
+                "userId": "1124177912918364160"
+            },
+            {
+                "userName": "yasirerkus",
+                "userId": "4889903332"
+            },
+            {
+                "userName": "saidercan",
+                "userId": "89682453"
+            },
+            {
+                "userName": "veliyandasoglu",
+                "userId": "1705603286798135296"
+            },
+            {
+                "userName": "TheAyico",
+                "userId": "1428771371010727938"
+            },
+            {
+                "userName": "MediaMuhtari",
+                "userId": "770556029222486016"
+            },
+            {
+                "userName": "melihaltinok",
+                "userId": "86537173"
+            },
+            {
+                "userName": "sevdaturkusev",
+                "userId": "156761609"
+            },
+            {
+                "userName": "yenisafakwriter",
+                "userId": "173315794"
+            },
+            {
+                "userName": "EremSenturk",
+                "userId": "98276458"
+            },
+            {
+                "userName": "Abese_irca",
+                "userId": "1249447076179488768"
+            },
+            {
+                "userName": "zcakir27",
+                "userId": "4545898875"
+            },
+            {
+                "userName": "debuffer2",
+                "userId": "1239660293489414145"
+            },
+            {
+                "userName": "MertArmagan53",
+                "userId": "2760302455"
+            },
+            {
+                "userName": "halil_konakci",
+                "userId": "1116379380748623872"
+            },
+            {
+                "userName": "themarginale",
+                "userId": "1211050169870868480"
+            },
+            {
+                "userName": "tselmanoglu",
+                "userId": "791660138054778880"
+            },
+            {
+                "userName": "AlcayirCengiz",
+                "userId": "4075965448"
+            },
+            {
+                "userName": "haciykk",
+                "userId": "960680874"
+            },
+            {
+                "userName": "uzunabdurrahman",
+                "userId": "252280359"
+            },
+            {
+                "userName": "Kombucu_",
+                "userId": "1141773064721616896"
+            },
+            {
+                "userName": "Abese_irca",
+                "userId": "1249447076179488768"
+            },
+            {
+                "userName": "Abdquil",
+                "userId": "1471242329461772292"
+            },
+            {
+                "userName": "___Cavus__Esra_",
+                "userId": "1306234185837957120"
+            },
+            {
+                "userName": "FuNDaaMeNTaLiST",
+                "userId": "1463301630254669825"
+            },
+            {
+                "userName": "mutlu_unitezim",
+                "userId": "1484101588931207172"
+            },
+            {
+                "userName": "passgec",
+                "userId": "1262895820204056578"
+            },
+            {
+                "userName": "by__fth",
+                "userId": "1190992023802789888"
+            },
+            {
+                "userName": "Dogan_bey3458",
+                "userId": "1222963457458343936"
+            },
+            {
+                "userName": "__Tevazu__",
+                "userId": "4077072555"
+            },
+            {
+                "userName": "zeno_dami",
+                "userId": "4863188758"
+            },
+            {
+                "userName": "ekermstf54",
+                "userId": "702834586984849408"
+            },
+            {
+                "userName": "Caca_Beyinizxzx",
+                "userId": "1323696341017649152"
+            },
+            {
+                "userName": "muratsahin2023",
+                "userId": "788038160"
+            },
+            {
+                "userName": "AK_suHandan",
+                "userId": "2535040898"
+            },
+            {
+                "userName": "hilal_kaplan",
+                "userId": "99535301"
+            },
+            {
+                "userName": "NiluferSabuncu",
+                "userId": "486106937"
+            },
+            {
+                "userName": "yilmazgul35352",
+                "userId": "4735645515"
+            },
+            {
+                "userName": "DrAhmetSANLI",
+                "userId": "1443146824030822401"
+            },
+            {
+                "userName": "jahreinG",
+                "userId": "2178524371"
+            },
+            {
+                "userName": "burakbekiroglu",
+                "userId": "245955761"
+            },
+            {
+                "userName": "Afo_Sultan00",
+                "userId": "1346251502982209536"
+            },
+            {
+                "userName": "BekirTiryakii",
+                "userId": "2499948949"
+            },
+            {
+                "userName": "Siyam_usta61SLx",
+                "userId": "1597977399378968577"
+            },
+            {
+                "userName": "Turk0600",
+                "userId": "633625606"
+            },
+            {
+                "userName": "___MuraT_ASM___",
+                "userId": "1256935539254714370"
+            },
+            {
+                "userName": "HurmaEdit",
+                "userId": "925047732"
+            },
+            {
+                "userName": "Zekeriya_Say",
+                "userId": "95273520"
+            },
+            {
+                "userName": "Yildiraycicek9",
+                "userId": "205777651"
+            },
+            {
+                "userName": "KumandanRte",
+                "userId": "1466789523594088457"
+            },
+            {
+                "userName": "umutnimetatas",
+                "userId": "3311847201"
+            },
+            {
+                "userName": "sabriamcaparodi",
+                "userId": "1480177476043214850"
+            },
+            {
+                "userName": "ironyglaze",
+                "userId": "1434681325915680769"
+            },
+            {
+                "userName": "EmrahC1oglu",
+                "userId": "1431567618989862916"
+            },
+            {
+                "userName": "ercanfaras",
+                "userId": "3297048811"
+            },
+            {
+                "userName": "ozguradamTurk",
+                "userId": "1167203407888879616"
+            },
+            {
+                "userName": "banalreis",
+                "userId": "1358082989868081155"
+            },
+            {
+                "userName": "Htc_111_",
+                "userId": "702973076598874112"
+            },
+            {
+                "userName": "SireneOznur",
+                "userId": "1248976372082659329"
+            },
+            {
+                "userName": "tugce_kazaz1",
+                "userId": "1416839152805502976"
+            },
+            {
+                "userName": "ozlemdogan_",
+                "userId": "1484219388"
+            },
+            {
+                "userName": "Politic_TR",
+                "userId": "808058016658583552"
+            },
+            {
+                "userName": "__KESAFET64__",
+                "userId": "56965850"
+            },
+            {
+                "userName": "HaberMujdeli",
+                "userId": "1219875458814304256"
+            },
+            {
+                "userName": "basinozcan",
+                "userId": "100250958"
+            },
+            {
+                "userName": "birincimucahit",
+                "userId": "3388641497"
+            },
+            {
+                "userName": "aselimkoroglu",
+                "userId": "263876236"
+            },
+            {
+                "userName": "oktay_saral",
+                "userId": "301490933"
+            },
+            {
+                "userName": "b_ysabri",
+                "userId": "315845910"
+            },
+            {
+                "userName": "DrAhmetSANLI",
+                "userId": "1443146824030822401"
+            },
+            {
+                "userName": "The_Kelamist",
+                "userId": "731789204242477056"
+            },
+            {
+                "userName": "zafersahin06",
+                "userId": "191167408"
+            },
+            {
+                "userName": "mehmetcakir_61",
+                "userId": "1261825071565475842"
+            },
+            {
+                "userName": "Ateist_TV",
+                "userId": "1538737374359953409"
+            },
+            {
+                "userName": "mrt_turkyilmaz",
+                "userId": "143108179"
+            },
+            {
+                "userName": "fikretcetinorg",
+                "userId": "1633228719748706305"
+            },
+            {
+                "userName": "abdurrahim_av",
+                "userId": "1334628976850051075"
+            },
+            {
+                "userName": "agabeyziya",
+                "userId": "2504699319"
+            },
+            {
+                "userName": "Susma_maa",
+                "userId": "1525406952515424256"
+            },
+            {
+                "userName": "Avicenna_Razi",
+                "userId": "1171759632374779904"
+            },
+            {
+                "userName": "ademtaflan55",
+                "userId": "2246504199"
+            },
+            {
+                "userName": "seyyarkapakci",
+                "userId": "1248550948441657346"
+            },
+            {
+                "userName": "varank",
+                "userId": "70363441"
+            }
+        ],
+        "info": "Manipülatif, troll, toplum huzurunu bozup, toplumsal kutuplaştırmayı arttırmaya çalışan hesaplar.",
+        "color": "FF0000"
+    },
+"cat1": {
+        "name": "SARI LİSTE",
+        "users": [
+            {
+                "userName": "yekvucutcom",
+                "userId": "847345261626118144"
+            },
+            {
+                "userName": "Metruk_Haber",
+                "userId": "1685710936974274560"
+            },
+            {
+                "userName": "Darkwebhaber",
+                "userId": "1051902349445345280"
+            },
+            {
+                "userName": "pusholder",
+                "userId": "1212685850095452160"
+            },
+            {
+                "userName": "gundem360_",
+                "userId": "827806736"
+            },
+            {
+                "userName": "bpthaber",
+                "userId": "2955315479"
+            },
+            {
+                "userName": "LogHaber",
+                "userId": "1126172190913773568"
+            },
+            {
+                "userName": "ajans_muhbir",
+                "userId": "1488614157071097861"
+            },
+            {
+                "userName": "aykiricomtr",
+                "userId": "367071498"
+            },
+            {
+                "userName": "haberreport",
+                "userId": "1205111495027240961"
+            },
+            {
+                "userName": "beehaber",
+                "userId": "1350490081560322054"
+            },
+            {
+                "userName": "dailyislamist",
+                "userId": "1389975025621606400"
+            },
+            {
+                "userName": "solcugazete",
+                "userId": "855538404305637377"
+            },
+            {
+                "userName": "haber",
+                "userId": "2946409959"
+            },
+            {
+                "userName": "mahajansi",
+                "userId": "465684628"
+            },
+            {
+                "userName": "akittv",
+                "userId": "2981092727"
+            },
+            {
+                "userName": "MisvakHaber",
+                "userId": "3836132367"
+            },
+            {
+                "userName": "gusholderhaber",
+                "userId": "1024353990379745281"
+            },
+            {
+                "userName": "notifyhome",
+                "userId": "2382257630"
+            },
+            {
+                "userName": "bosunatiklama",
+                "userId": "1338186398600482816"
+            },
+            {
+                "userName": "Distastemoment",
+                "userId": "1510953145622568964"
+            },
+            {
+                "userName": "gundemedairhs",
+                "userId": "781012290"
+            },
+            {
+                "userName": "eha_medya",
+                "userId": "808297868410912768"
+            },
+            {
+                "userName": "SagciGazete",
+                "userId": "1524339446941945858"
+            }
+        ],
+        "info": "Merkezi haber ajanslarından aldıkları haberleri paylaşarak toplumsal kutuplaşmayı arttıran, bağımsız habercilikle ters düşen haber hesapları.",
+        "color": "FF0000"
+    }
+}
